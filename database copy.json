@@ -390,7 +390,7 @@
   "classes": [
     {
       "id": 0,
-      "name": "no class",
+      "name": "",
       "skillPoints": 0,
       "HD": 0
     },
@@ -466,7 +466,7 @@
       "id": 1,
       "classId": 0,
       "level": 1,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 2,
@@ -477,7 +477,7 @@
       "id": 2,
       "classId": 0,
       "level": 2,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -488,7 +488,7 @@
       "id": 3,
       "classId": 0,
       "level": 3,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -499,7 +499,7 @@
       "id": 4,
       "classId": 0,
       "level": 4,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -510,7 +510,7 @@
       "id": 5,
       "classId": 0,
       "level": 5,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -521,7 +521,7 @@
       "id": 6,
       "classId": 0,
       "level": 6,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -532,7 +532,7 @@
       "id": 7,
       "classId": 0,
       "level": 7,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -543,7 +543,7 @@
       "id": 8,
       "classId": 0,
       "level": 8,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -554,7 +554,7 @@
       "id": 9,
       "classId": 0,
       "level": 9,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -565,7 +565,7 @@
       "id": 10,
       "classId": 0,
       "level": 10,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -576,7 +576,7 @@
       "id": 11,
       "classId": 0,
       "level": 11,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -587,7 +587,7 @@
       "id": 12,
       "classId": 0,
       "level": 12,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -598,7 +598,7 @@
       "id": 13,
       "classId": 0,
       "level": 13,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -609,7 +609,7 @@
       "id": 14,
       "classId": 0,
       "level": 14,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -620,7 +620,7 @@
       "id": 15,
       "classId": 0,
       "level": 15,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -631,7 +631,7 @@
       "id": 16,
       "classId": 0,
       "level": 16,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -642,7 +642,7 @@
       "id": 17,
       "classId": 0,
       "level": 17,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -653,7 +653,7 @@
       "id": 18,
       "classId": 0,
       "level": 18,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -664,7 +664,7 @@
       "id": 19,
       "classId": 0,
       "level": 19,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 0,
@@ -675,7 +675,7 @@
       "id": 20,
       "classId": 0,
       "level": 20,
-      "features": "you have the default class selected. dont mess with this",
+      "features": "",
       "featAdd": false,
       "BAB": 1,
       "Fort": 1,
@@ -1565,8 +1565,8 @@
     {
       "classId": 5,
       "level": 1,
-      "features": "this is a test for a fighter",
-      "featAdd": true,
+      "features": "",
+      "featAdd": false,
       "BAB": 1,
       "Fort": 2,
       "Ref": 0,
@@ -1577,7 +1577,7 @@
       "classId": 5,
       "level": 2,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 0,
@@ -1599,7 +1599,7 @@
       "classId": 5,
       "level": 4,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 0,
@@ -1621,7 +1621,7 @@
       "classId": 5,
       "level": 6,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 1,
@@ -1643,7 +1643,7 @@
       "classId": 5,
       "level": 8,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 0,
@@ -1665,7 +1665,7 @@
       "classId": 5,
       "level": 10,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 0,
@@ -1687,7 +1687,7 @@
       "classId": 5,
       "level": 12,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 1,
@@ -1709,7 +1709,7 @@
       "classId": 5,
       "level": 14,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 0,
@@ -1731,7 +1731,7 @@
       "classId": 5,
       "level": 16,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 0,
@@ -1753,7 +1753,7 @@
       "classId": 5,
       "level": 18,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 1,
@@ -1775,7 +1775,7 @@
       "classId": 5,
       "level": 20,
       "features": "",
-      "featAdd": true,
+      "featAdd": false,
       "BAB": 1,
       "Fort": 1,
       "Ref": 0,
@@ -3398,61 +3398,9 @@
       "featAdd": false,
       "featId": 0,
       "classfeatAdd": false,
-      "classfeatId": 2,
+      "classfeatId": 0,
       "HDRoll": 0,
       "id": 2
-    },
-    {
-      "characterId": 1,
-      "classId": 5,
-      "characterLevel": 3,
-      "statBoost": false,
-      "stat": "",
-      "featAdd": true,
-      "featId": 3,
-      "classfeatAdd": false,
-      "classfeatId": 0,
-      "HDRoll": 0,
-      "id": 3
-    },
-    {
-      "characterId": 1,
-      "classId": 5,
-      "characterLevel": 4,
-      "statBoost": true,
-      "stat": "",
-      "featAdd": false,
-      "featId": 0,
-      "classfeatAdd": false,
-      "classfeatId": 0,
-      "HDRoll": 0,
-      "id": 4
-    },
-    {
-      "characterId": 1,
-      "classId": 4,
-      "characterLevel": 5,
-      "statBoost": false,
-      "stat": "",
-      "featAdd": false,
-      "featId": 0,
-      "classfeatAdd": false,
-      "classfeatId": 0,
-      "HDRoll": 0,
-      "id": 5
-    },
-    {
-      "characterId": 1,
-      "classId": 4,
-      "characterLevel": 6,
-      "statBoost": false,
-      "stat": "",
-      "featAdd": true,
-      "featId": 0,
-      "classfeatAdd": false,
-      "classfeatId": 0,
-      "HDRoll": 0,
-      "id": 6
     }
   ],
   "levelSkills": [
@@ -3995,1086 +3943,6 @@
       "levelId": 2,
       "points": 0,
       "id": 90
-    },
-    {
-      "skillId": 1,
-      "levelId": 3,
-      "points": 0,
-      "id": 91
-    },
-    {
-      "skillId": 3,
-      "levelId": 3,
-      "points": 0,
-      "id": 92
-    },
-    {
-      "skillId": 4,
-      "levelId": 3,
-      "points": 0,
-      "id": 93
-    },
-    {
-      "skillId": 5,
-      "levelId": 3,
-      "points": 0,
-      "id": 94
-    },
-    {
-      "skillId": 2,
-      "levelId": 3,
-      "points": 0,
-      "id": 95
-    },
-    {
-      "skillId": 7,
-      "levelId": 3,
-      "points": 0,
-      "id": 96
-    },
-    {
-      "skillId": 6,
-      "levelId": 3,
-      "points": 0,
-      "id": 97
-    },
-    {
-      "skillId": 8,
-      "levelId": 3,
-      "points": 0,
-      "id": 98
-    },
-    {
-      "skillId": 9,
-      "levelId": 3,
-      "points": 0,
-      "id": 99
-    },
-    {
-      "skillId": 10,
-      "levelId": 3,
-      "points": 0,
-      "id": 100
-    },
-    {
-      "skillId": 11,
-      "levelId": 3,
-      "points": 0,
-      "id": 101
-    },
-    {
-      "skillId": 12,
-      "levelId": 3,
-      "points": 0,
-      "id": 102
-    },
-    {
-      "skillId": 13,
-      "levelId": 3,
-      "points": 0,
-      "id": 103
-    },
-    {
-      "skillId": 14,
-      "levelId": 3,
-      "points": 0,
-      "id": 104
-    },
-    {
-      "skillId": 15,
-      "levelId": 3,
-      "points": 0,
-      "id": 105
-    },
-    {
-      "skillId": 16,
-      "levelId": 3,
-      "points": 0,
-      "id": 106
-    },
-    {
-      "skillId": 17,
-      "levelId": 3,
-      "points": 0,
-      "id": 107
-    },
-    {
-      "skillId": 18,
-      "levelId": 3,
-      "points": 0,
-      "id": 108
-    },
-    {
-      "skillId": 19,
-      "levelId": 3,
-      "points": 0,
-      "id": 109
-    },
-    {
-      "skillId": 20,
-      "levelId": 3,
-      "points": 0,
-      "id": 110
-    },
-    {
-      "skillId": 21,
-      "levelId": 3,
-      "points": 0,
-      "id": 111
-    },
-    {
-      "skillId": 22,
-      "levelId": 3,
-      "points": 0,
-      "id": 112
-    },
-    {
-      "skillId": 23,
-      "levelId": 3,
-      "points": 0,
-      "id": 113
-    },
-    {
-      "skillId": 24,
-      "levelId": 3,
-      "points": 0,
-      "id": 114
-    },
-    {
-      "skillId": 25,
-      "levelId": 3,
-      "points": 0,
-      "id": 115
-    },
-    {
-      "skillId": 26,
-      "levelId": 3,
-      "points": 0,
-      "id": 116
-    },
-    {
-      "skillId": 27,
-      "levelId": 3,
-      "points": 0,
-      "id": 117
-    },
-    {
-      "skillId": 28,
-      "levelId": 3,
-      "points": 0,
-      "id": 118
-    },
-    {
-      "skillId": 29,
-      "levelId": 3,
-      "points": 0,
-      "id": 119
-    },
-    {
-      "skillId": 30,
-      "levelId": 3,
-      "points": 0,
-      "id": 120
-    },
-    {
-      "skillId": 31,
-      "levelId": 3,
-      "points": 0,
-      "id": 121
-    },
-    {
-      "skillId": 32,
-      "levelId": 3,
-      "points": 0,
-      "id": 122
-    },
-    {
-      "skillId": 33,
-      "levelId": 3,
-      "points": 0,
-      "id": 123
-    },
-    {
-      "skillId": 34,
-      "levelId": 3,
-      "points": 0,
-      "id": 124
-    },
-    {
-      "skillId": 35,
-      "levelId": 3,
-      "points": 0,
-      "id": 125
-    },
-    {
-      "skillId": 39,
-      "levelId": 3,
-      "points": 0,
-      "id": 126
-    },
-    {
-      "skillId": 40,
-      "levelId": 3,
-      "points": 0,
-      "id": 127
-    },
-    {
-      "skillId": 36,
-      "levelId": 3,
-      "points": 0,
-      "id": 128
-    },
-    {
-      "skillId": 37,
-      "levelId": 3,
-      "points": 0,
-      "id": 129
-    },
-    {
-      "skillId": 38,
-      "levelId": 3,
-      "points": 0,
-      "id": 130
-    },
-    {
-      "skillId": 41,
-      "levelId": 3,
-      "points": 0,
-      "id": 131
-    },
-    {
-      "skillId": 42,
-      "levelId": 3,
-      "points": 0,
-      "id": 132
-    },
-    {
-      "skillId": 43,
-      "levelId": 3,
-      "points": 0,
-      "id": 133
-    },
-    {
-      "skillId": 44,
-      "levelId": 3,
-      "points": 0,
-      "id": 134
-    },
-    {
-      "skillId": 45,
-      "levelId": 3,
-      "points": 0,
-      "id": 135
-    },
-    {
-      "skillId": 1,
-      "levelId": 4,
-      "points": 0,
-      "id": 136
-    },
-    {
-      "skillId": 2,
-      "levelId": 4,
-      "points": 0,
-      "id": 137
-    },
-    {
-      "skillId": 3,
-      "levelId": 4,
-      "points": 0,
-      "id": 138
-    },
-    {
-      "skillId": 4,
-      "levelId": 4,
-      "points": 0,
-      "id": 139
-    },
-    {
-      "skillId": 5,
-      "levelId": 4,
-      "points": 0,
-      "id": 140
-    },
-    {
-      "skillId": 6,
-      "levelId": 4,
-      "points": 0,
-      "id": 141
-    },
-    {
-      "skillId": 7,
-      "levelId": 4,
-      "points": 0,
-      "id": 142
-    },
-    {
-      "skillId": 8,
-      "levelId": 4,
-      "points": 0,
-      "id": 143
-    },
-    {
-      "skillId": 9,
-      "levelId": 4,
-      "points": 0,
-      "id": 144
-    },
-    {
-      "skillId": 10,
-      "levelId": 4,
-      "points": 0,
-      "id": 145
-    },
-    {
-      "skillId": 11,
-      "levelId": 4,
-      "points": 0,
-      "id": 146
-    },
-    {
-      "skillId": 12,
-      "levelId": 4,
-      "points": 0,
-      "id": 147
-    },
-    {
-      "skillId": 13,
-      "levelId": 4,
-      "points": 0,
-      "id": 148
-    },
-    {
-      "skillId": 14,
-      "levelId": 4,
-      "points": 0,
-      "id": 149
-    },
-    {
-      "skillId": 15,
-      "levelId": 4,
-      "points": 0,
-      "id": 150
-    },
-    {
-      "skillId": 16,
-      "levelId": 4,
-      "points": 0,
-      "id": 151
-    },
-    {
-      "skillId": 17,
-      "levelId": 4,
-      "points": 0,
-      "id": 152
-    },
-    {
-      "skillId": 18,
-      "levelId": 4,
-      "points": 0,
-      "id": 153
-    },
-    {
-      "skillId": 19,
-      "levelId": 4,
-      "points": 0,
-      "id": 154
-    },
-    {
-      "skillId": 20,
-      "levelId": 4,
-      "points": 0,
-      "id": 155
-    },
-    {
-      "skillId": 21,
-      "levelId": 4,
-      "points": 0,
-      "id": 156
-    },
-    {
-      "skillId": 22,
-      "levelId": 4,
-      "points": 0,
-      "id": 157
-    },
-    {
-      "skillId": 23,
-      "levelId": 4,
-      "points": 0,
-      "id": 158
-    },
-    {
-      "skillId": 24,
-      "levelId": 4,
-      "points": 0,
-      "id": 159
-    },
-    {
-      "skillId": 25,
-      "levelId": 4,
-      "points": 0,
-      "id": 160
-    },
-    {
-      "skillId": 26,
-      "levelId": 4,
-      "points": 0,
-      "id": 161
-    },
-    {
-      "skillId": 27,
-      "levelId": 4,
-      "points": 0,
-      "id": 162
-    },
-    {
-      "skillId": 28,
-      "levelId": 4,
-      "points": 0,
-      "id": 163
-    },
-    {
-      "skillId": 29,
-      "levelId": 4,
-      "points": 0,
-      "id": 164
-    },
-    {
-      "skillId": 30,
-      "levelId": 4,
-      "points": 0,
-      "id": 165
-    },
-    {
-      "skillId": 31,
-      "levelId": 4,
-      "points": 0,
-      "id": 166
-    },
-    {
-      "skillId": 32,
-      "levelId": 4,
-      "points": 0,
-      "id": 167
-    },
-    {
-      "skillId": 33,
-      "levelId": 4,
-      "points": 0,
-      "id": 168
-    },
-    {
-      "skillId": 34,
-      "levelId": 4,
-      "points": 0,
-      "id": 169
-    },
-    {
-      "skillId": 35,
-      "levelId": 4,
-      "points": 0,
-      "id": 170
-    },
-    {
-      "skillId": 36,
-      "levelId": 4,
-      "points": 0,
-      "id": 171
-    },
-    {
-      "skillId": 37,
-      "levelId": 4,
-      "points": 0,
-      "id": 172
-    },
-    {
-      "skillId": 38,
-      "levelId": 4,
-      "points": 0,
-      "id": 173
-    },
-    {
-      "skillId": 39,
-      "levelId": 4,
-      "points": 0,
-      "id": 174
-    },
-    {
-      "skillId": 40,
-      "levelId": 4,
-      "points": 0,
-      "id": 175
-    },
-    {
-      "skillId": 41,
-      "levelId": 4,
-      "points": 0,
-      "id": 176
-    },
-    {
-      "skillId": 42,
-      "levelId": 4,
-      "points": 0,
-      "id": 177
-    },
-    {
-      "skillId": 43,
-      "levelId": 4,
-      "points": 0,
-      "id": 178
-    },
-    {
-      "skillId": 44,
-      "levelId": 4,
-      "points": 0,
-      "id": 179
-    },
-    {
-      "skillId": 45,
-      "levelId": 4,
-      "points": 0,
-      "id": 180
-    },
-    {
-      "skillId": 1,
-      "levelId": 5,
-      "points": 0,
-      "id": 181
-    },
-    {
-      "skillId": 2,
-      "levelId": 5,
-      "points": 0,
-      "id": 182
-    },
-    {
-      "skillId": 3,
-      "levelId": 5,
-      "points": 0,
-      "id": 183
-    },
-    {
-      "skillId": 4,
-      "levelId": 5,
-      "points": 0,
-      "id": 184
-    },
-    {
-      "skillId": 5,
-      "levelId": 5,
-      "points": 0,
-      "id": 185
-    },
-    {
-      "skillId": 6,
-      "levelId": 5,
-      "points": 0,
-      "id": 186
-    },
-    {
-      "skillId": 7,
-      "levelId": 5,
-      "points": 0,
-      "id": 187
-    },
-    {
-      "skillId": 8,
-      "levelId": 5,
-      "points": 0,
-      "id": 188
-    },
-    {
-      "skillId": 9,
-      "levelId": 5,
-      "points": 0,
-      "id": 189
-    },
-    {
-      "skillId": 10,
-      "levelId": 5,
-      "points": 0,
-      "id": 190
-    },
-    {
-      "skillId": 11,
-      "levelId": 5,
-      "points": 0,
-      "id": 191
-    },
-    {
-      "skillId": 12,
-      "levelId": 5,
-      "points": 0,
-      "id": 192
-    },
-    {
-      "skillId": 13,
-      "levelId": 5,
-      "points": 0,
-      "id": 193
-    },
-    {
-      "skillId": 14,
-      "levelId": 5,
-      "points": 0,
-      "id": 194
-    },
-    {
-      "skillId": 15,
-      "levelId": 5,
-      "points": 0,
-      "id": 195
-    },
-    {
-      "skillId": 16,
-      "levelId": 5,
-      "points": 0,
-      "id": 196
-    },
-    {
-      "skillId": 17,
-      "levelId": 5,
-      "points": 0,
-      "id": 197
-    },
-    {
-      "skillId": 18,
-      "levelId": 5,
-      "points": 0,
-      "id": 198
-    },
-    {
-      "skillId": 19,
-      "levelId": 5,
-      "points": 0,
-      "id": 199
-    },
-    {
-      "skillId": 20,
-      "levelId": 5,
-      "points": 0,
-      "id": 200
-    },
-    {
-      "skillId": 21,
-      "levelId": 5,
-      "points": 0,
-      "id": 201
-    },
-    {
-      "skillId": 22,
-      "levelId": 5,
-      "points": 0,
-      "id": 202
-    },
-    {
-      "skillId": 27,
-      "levelId": 5,
-      "points": 0,
-      "id": 203
-    },
-    {
-      "skillId": 23,
-      "levelId": 5,
-      "points": 0,
-      "id": 204
-    },
-    {
-      "skillId": 24,
-      "levelId": 5,
-      "points": 0,
-      "id": 205
-    },
-    {
-      "skillId": 25,
-      "levelId": 5,
-      "points": 0,
-      "id": 206
-    },
-    {
-      "skillId": 26,
-      "levelId": 5,
-      "points": 0,
-      "id": 207
-    },
-    {
-      "skillId": 28,
-      "levelId": 5,
-      "points": 0,
-      "id": 208
-    },
-    {
-      "skillId": 29,
-      "levelId": 5,
-      "points": 0,
-      "id": 209
-    },
-    {
-      "skillId": 30,
-      "levelId": 5,
-      "points": 0,
-      "id": 210
-    },
-    {
-      "skillId": 31,
-      "levelId": 5,
-      "points": 0,
-      "id": 211
-    },
-    {
-      "skillId": 32,
-      "levelId": 5,
-      "points": 0,
-      "id": 212
-    },
-    {
-      "skillId": 33,
-      "levelId": 5,
-      "points": 0,
-      "id": 213
-    },
-    {
-      "skillId": 34,
-      "levelId": 5,
-      "points": 0,
-      "id": 214
-    },
-    {
-      "skillId": 35,
-      "levelId": 5,
-      "points": 0,
-      "id": 215
-    },
-    {
-      "skillId": 36,
-      "levelId": 5,
-      "points": 0,
-      "id": 216
-    },
-    {
-      "skillId": 37,
-      "levelId": 5,
-      "points": 0,
-      "id": 217
-    },
-    {
-      "skillId": 38,
-      "levelId": 5,
-      "points": 0,
-      "id": 218
-    },
-    {
-      "skillId": 39,
-      "levelId": 5,
-      "points": 0,
-      "id": 219
-    },
-    {
-      "skillId": 40,
-      "levelId": 5,
-      "points": 0,
-      "id": 220
-    },
-    {
-      "skillId": 41,
-      "levelId": 5,
-      "points": 0,
-      "id": 221
-    },
-    {
-      "skillId": 42,
-      "levelId": 5,
-      "points": 0,
-      "id": 222
-    },
-    {
-      "skillId": 43,
-      "levelId": 5,
-      "points": 0,
-      "id": 223
-    },
-    {
-      "skillId": 44,
-      "levelId": 5,
-      "points": 0,
-      "id": 224
-    },
-    {
-      "skillId": 45,
-      "levelId": 5,
-      "points": 0,
-      "id": 225
-    },
-    {
-      "skillId": 1,
-      "levelId": 6,
-      "points": 0,
-      "id": 226
-    },
-    {
-      "skillId": 2,
-      "levelId": 6,
-      "points": 0,
-      "id": 227
-    },
-    {
-      "skillId": 3,
-      "levelId": 6,
-      "points": 0,
-      "id": 228
-    },
-    {
-      "skillId": 4,
-      "levelId": 6,
-      "points": 0,
-      "id": 229
-    },
-    {
-      "skillId": 5,
-      "levelId": 6,
-      "points": 0,
-      "id": 230
-    },
-    {
-      "skillId": 6,
-      "levelId": 6,
-      "points": 0,
-      "id": 231
-    },
-    {
-      "skillId": 7,
-      "levelId": 6,
-      "points": 0,
-      "id": 232
-    },
-    {
-      "skillId": 8,
-      "levelId": 6,
-      "points": 0,
-      "id": 233
-    },
-    {
-      "skillId": 9,
-      "levelId": 6,
-      "points": 0,
-      "id": 234
-    },
-    {
-      "skillId": 10,
-      "levelId": 6,
-      "points": 0,
-      "id": 235
-    },
-    {
-      "skillId": 11,
-      "levelId": 6,
-      "points": 0,
-      "id": 236
-    },
-    {
-      "skillId": 12,
-      "levelId": 6,
-      "points": 0,
-      "id": 237
-    },
-    {
-      "skillId": 13,
-      "levelId": 6,
-      "points": 0,
-      "id": 238
-    },
-    {
-      "skillId": 14,
-      "levelId": 6,
-      "points": 0,
-      "id": 239
-    },
-    {
-      "skillId": 15,
-      "levelId": 6,
-      "points": 0,
-      "id": 240
-    },
-    {
-      "skillId": 16,
-      "levelId": 6,
-      "points": 0,
-      "id": 241
-    },
-    {
-      "skillId": 17,
-      "levelId": 6,
-      "points": 0,
-      "id": 242
-    },
-    {
-      "skillId": 18,
-      "levelId": 6,
-      "points": 0,
-      "id": 243
-    },
-    {
-      "skillId": 19,
-      "levelId": 6,
-      "points": 0,
-      "id": 244
-    },
-    {
-      "skillId": 20,
-      "levelId": 6,
-      "points": 0,
-      "id": 245
-    },
-    {
-      "skillId": 21,
-      "levelId": 6,
-      "points": 0,
-      "id": 246
-    },
-    {
-      "skillId": 22,
-      "levelId": 6,
-      "points": 0,
-      "id": 247
-    },
-    {
-      "skillId": 23,
-      "levelId": 6,
-      "points": 0,
-      "id": 248
-    },
-    {
-      "skillId": 24,
-      "levelId": 6,
-      "points": 0,
-      "id": 249
-    },
-    {
-      "skillId": 25,
-      "levelId": 6,
-      "points": 0,
-      "id": 250
-    },
-    {
-      "skillId": 26,
-      "levelId": 6,
-      "points": 0,
-      "id": 251
-    },
-    {
-      "skillId": 27,
-      "levelId": 6,
-      "points": 0,
-      "id": 252
-    },
-    {
-      "skillId": 28,
-      "levelId": 6,
-      "points": 0,
-      "id": 253
-    },
-    {
-      "skillId": 29,
-      "levelId": 6,
-      "points": 0,
-      "id": 254
-    },
-    {
-      "skillId": 30,
-      "levelId": 6,
-      "points": 0,
-      "id": 255
-    },
-    {
-      "skillId": 31,
-      "levelId": 6,
-      "points": 0,
-      "id": 256
-    },
-    {
-      "skillId": 32,
-      "levelId": 6,
-      "points": 0,
-      "id": 257
-    },
-    {
-      "skillId": 33,
-      "levelId": 6,
-      "points": 0,
-      "id": 258
-    },
-    {
-      "skillId": 34,
-      "levelId": 6,
-      "points": 0,
-      "id": 259
-    },
-    {
-      "skillId": 35,
-      "levelId": 6,
-      "points": 0,
-      "id": 260
-    },
-    {
-      "skillId": 36,
-      "levelId": 6,
-      "points": 0,
-      "id": 261
-    },
-    {
-      "skillId": 37,
-      "levelId": 6,
-      "points": 0,
-      "id": 262
-    },
-    {
-      "skillId": 38,
-      "levelId": 6,
-      "points": 0,
-      "id": 263
-    },
-    {
-      "skillId": 39,
-      "levelId": 6,
-      "points": 0,
-      "id": 264
-    },
-    {
-      "skillId": 40,
-      "levelId": 6,
-      "points": 0,
-      "id": 265
-    },
-    {
-      "skillId": 41,
-      "levelId": 6,
-      "points": 0,
-      "id": 266
-    },
-    {
-      "skillId": 42,
-      "levelId": 6,
-      "points": 0,
-      "id": 267
-    },
-    {
-      "skillId": 43,
-      "levelId": 6,
-      "points": 0,
-      "id": 268
-    },
-    {
-      "skillId": 44,
-      "levelId": 6,
-      "points": 0,
-      "id": 269
-    },
-    {
-      "skillId": 45,
-      "levelId": 6,
-      "points": 0,
-      "id": 270
     }
   ],
   "classSkills": [
